@@ -1,0 +1,12 @@
+{
+  "name": "ibotsale-proxy",
+  "version": "1.0.0",
+  "description": "AI proxy for iBotSale — routes to OpenAI, Anthropic, Meta APIs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
