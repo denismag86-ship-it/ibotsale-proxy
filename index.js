@@ -26,6 +26,7 @@ const ROUTES = {
   '/anthropic': 'https://api.anthropic.com',
   '/deepseek':  'https://api.deepseek.com',
   '/kimi':      'https://api.moonshot.cn',
+  '/telegram':  'https://api.telegram.org',
   '/instagram': 'https://graph.instagram.com',
   '/facebook':  'https://graph.facebook.com',
   '/ig-private':'https://i.instagram.com',
